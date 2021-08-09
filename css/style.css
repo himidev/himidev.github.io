@@ -191,7 +191,7 @@ footer .pr {
 #new dt {
 	font-weight: bold;	/*太字にする設定。標準がいいならこの行削除。*/
 	float: left;
-	width: 16em;
+	width: 30em;
 }
 /*記事設定*/
 #new dd {
